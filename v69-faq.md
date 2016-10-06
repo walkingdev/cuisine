@@ -21,9 +21,9 @@ Et, ça se termine vers 18h30.
 
 ### C'est pour qui ?
 
-- Les personnes impliquées ou curieuses de découvrir le développement logiciel.
-- Les développeuses et développeurs souhaitant chatouiller le paradigme foncionnel sans se brûler.
-- Les hipsters et hipsteuses kiffant tester l'effet de leurs barbes en se baladant dans la cité.
+- Les personnes curieuses de découvrir comment manger sain, malin et insolite.
+- Les développeuses et développeurs souhaitant émoustiller leurs papilles sans passer par la case étoilé.
+- Les voyageurs à la recherche de leur style culinaire wildlife.
 
 ### On sera combien ?
 
@@ -44,6 +44,6 @@ C'est pas très explicite, mais en cherchant on trouve quand même facilement le
 #### Et si j'ai une question ?
 
 Tu peux contacter :  
-- Antoine - [@avernois](http://twitter.com/avernois)(dm ouvert)  
+- Stephane - [@](http://twitter.com/...)(dm ouvert)  
 ou  
-- Bénédicte - [@…](http://twitter.com/)
+- Bénédicte - [@…](https://twitter.com/Benelambert1979)
