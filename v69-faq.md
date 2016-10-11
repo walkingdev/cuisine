@@ -11,8 +11,9 @@ image_url: https://github.com/walkingdev/cuisine/blob/master/media/cuisine.png?r
 ### On va faire quoi ?
 
 L'idée c'est de découvrir comment manger avec plaisir quand on est en itinérance 
-Dans un lieu, en binôme ou en groupe on explore une partie du sujet, via des petits ateliers, présentations, questionnements ou autres expérimentations puis on passe à l'endroit suivant.
-On profitera du trajet pour débriefer sur la session que l'on vient de faire.
+Dans la ville, on marche, on découvre le marché, des lieux étonnants et des ressources insoupçonnées pour cuisiner. On expérimente des techniques, on teste, on goûte, on décele de nouvelles saveurs.
+
+
 
 ### C'est quand et où ?
 
@@ -31,13 +32,13 @@ Au moins 2, maximum 8, probablement 6.
 
 ### On mangera quoi ?
 
-Rien n'est décidé pour l'instant. Si tu manges sans gluten, que tu es végétalien ou avec des restrictions alimentaires, préviens nous.
+Rien n'est décidé pour l'instant, tout reste à inventer. Si tu manges sans gluten, que tu es végétalien ou avec des restrictions alimentaires, préviens nous.
 
 ### Je m'inscris où ?
 
 Tu peux t’inscrire ici : [v69-inscriptions.md](https://github.com/walkingdev/cuisine/edit/master/v69-inscriptions.md)
 
-### Pourquoi V-34 ?
+### Pourquoi V-69 ?
 
 C'est pas très explicite, mais en cherchant on trouve quand même facilement le pourquoi du comment.
 
