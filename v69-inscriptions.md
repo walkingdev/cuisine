@@ -11,4 +11,4 @@ Pour plus d'infos, consulte la [FAQ](http://walkingdev.fr/#walkingdev/cuisine/bl
 
 * *nom - prénom - mail - tél - twitter*
 * Langlois - Stéphane - stéphane@scopyleft.fr - 0000000000 - @langlois_s
-* Lambert - Bénédicte - benie1979@hotmail.com - 0000000000 - @
+* Lambert - Bénédicte - benie1979@hotmail.com - 0663383024 - @benelambert1979
