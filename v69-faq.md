@@ -1,7 +1,7 @@
 ---
-title: Session Cuisine 
+title: Session Cuisine V-33
 description: Faire de la cuisine saine et créative sans frigo, sans gazinière et sans cuisine .
-image_url: https://github.com/walkingdev/cuisine/blob/master/media/cuisine.png?raw=true
+image_url: https://github.com/walkingdev/cuisine/blob/master/media/pommes.jpg?raw=true
 ---
 
 # Session Cuisine 
@@ -17,7 +17,7 @@ On expérimente des techniques, on joue avec astuces et espièglerie. On teste, 
 
 ### C'est quand et où ?
 
-La balade commence le 16 Décembre à 9h à la gare St Jean à Bordeaux.
+La balade commence le 16 Décembre à 9h place Sainte Croix à Bordeaux.
 Et, ça se termine vers 18h30.
 
 ### C'est pour qui ?
@@ -48,13 +48,18 @@ Rien n'est décidé pour l'instant, tout reste à inventer. Si tu manges sans gl
 
 Amène un couteau plutôt couteau-suisse ou laguiole, si tu en as, sinon on s'en chargera.
 Prends un sac à dos, de bonnes chaussures de marche et des vêtements chauds, à priori (cela s'ajustera avec la météo).
+Regarde la fiche détaillée ici: 
 
 ### Je m'inscris où ?
 
 Tu peux t’inscrire ici :
-* [v69-inscriptions.md](https://github.com/walkingdev/cuisine/edit/master/v69-inscriptions.md)
+* [v33-inscriptions.md](https://github.com/walkingdev/cuisine/edit/master/v33-inscriptions.md)
 ou ici si tu n'es pas à l'aise avec Github :
 * [inscription](https://www.eventbrite.fr/e/billets-walking-dev-cuisine-29078499575)
+
+### Pourquoi V-33 ?
+
+C'est pas très explicite, mais en cherchant on trouve quand même facilement le pourquoi du comment.
 
 #### Et si j'ai une question ?
 
