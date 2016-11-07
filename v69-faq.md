@@ -59,6 +59,6 @@ ou ici si tu n'es pas à l'aise avec Github :
 #### Et si j'ai une question ?
 
 Tu peux contacter :  
-- [@Stephane](http://twitter.com/...)(dm ouvert)  
+- [@Stephane](http://twitter.com/...) - (messages privés (DM) ouverts)  
 ou  
 - [@Bénédicte](https://twitter.com/Benelambert1979)
