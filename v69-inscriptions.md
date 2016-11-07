@@ -1,6 +1,6 @@
 ---
-title: Inscriptions Cuisine V-69
-description: Liste pour s'inscrire à la session ELM V-69
+title: Inscriptions Cuisine 
+description: Liste pour s'inscrire à la session Wallking dev Cuisine
 image_url: https://github.com/walkingdev/cuisine/blob/master/media/cuisine.png?raw=true
 ---
 
