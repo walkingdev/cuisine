@@ -51,12 +51,14 @@ Prends un sac à dos, de bonnes chaussures de marche et des vêtements chauds, �
 
 ### Je m'inscris où ?
 
-Tu peux t’inscrire ici : [v69-inscriptions.md](https://github.com/walkingdev/cuisine/edit/master/v69-inscriptions.md)
-ou ici https://www.eventbrite.fr/e/billets-walking-dev-cuisine-29078499575
+Tu peux t’inscrire ici :
+* [v69-inscriptions.md](https://github.com/walkingdev/cuisine/edit/master/v69-inscriptions.md)
+ou ici si tu n'es pas à l'aise avec Github :
+* [inscription](https://www.eventbrite.fr/e/billets-walking-dev-cuisine-29078499575)
 
 #### Et si j'ai une question ?
 
 Tu peux contacter :  
-- Stephane - [@](http://twitter.com/...)(dm ouvert)  
+- [@Stephane](http://twitter.com/...)(dm ouvert)  
 ou  
-- Bénédicte - [@](https://twitter.com/Benelambert1979)
+- [@Bénédicte](https://twitter.com/Benelambert1979)
