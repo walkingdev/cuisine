@@ -13,11 +13,11 @@ image_url: https://github.com/walkingdev/cuisine/blob/master/media/cuisine.png?r
 L'idée c'est de découvrir comment manger avec plaisir quand on est en itinérance.
 Comment peut-on manger chaud sans réchaud, sans matos traditionnel, sans porter sa cuisine sur son dos ?
 Dans la ville, on marche, on découvre le marché, des lieux étonnants et des ressources insoupçonnées pour cuisiner. 
-On expérimente des techniques, on joue avec astuces et espièglerie. On teste, on goûte, on décèle de nouvelles saveurs, on invente une nouvelle gastronomie.
+On expérimente des techniques, on joue avec astuces et espièglerie. On teste, on goûte, on décèle de nouvelles saveurs, on invente ensemble une nouvelle gastronomie.
 
 ### C'est quand et où ?
 
-La marche commencera le 16 Décembre à 9h à la gare St Jean à Bordeaux.
+La balade commence le 16 Décembre à 9h à la gare St Jean à Bordeaux.
 Et, ça se termine vers 18h30.
 
 ### C'est pour qui ?
@@ -48,7 +48,6 @@ Rien n'est décidé pour l'instant, tout reste à inventer. Si tu manges sans gl
 
 Amène un couteau plutôt couteau-suisse ou laguiole, si tu en as, sinon on s'en chargera.
 Prends un sac à dos, de bonnes chaussures de marche et des vêtements chauds, à priori (cela s'ajustera avec la météo).
-N'oublie pas ta jovialité et ton entrain.
 
 ### Je m'inscris où ?
 
