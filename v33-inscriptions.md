@@ -10,6 +10,8 @@ image_url: https://raw.githubusercontent.com/walkingdev/cuisine/master/media/pom
 Pour t'inscrire, ajoute tes coordonnées en bas de la liste.  
 Pour plus d'infos, consulte la [FAQ](http://walkingdev.fr/#walkingdev/cuisine/blob/master/v69-faq.md)  
 
+Ou utilise ce service [inscription](https://www.eventbrite.fr/e/billets-walking-dev-cuisine-29078499575)
+
 * *nom - prénom - mail - tél - twitter*
-* Langlois - Stéphane - stéphane@scopyleft.fr - 0000000000 - @langlois_s
+* Langlois - Stéphane - stéphane@scopyleft.fr - @langlois_s
 * Lambert - Bénédicte - benie1979@hotmail.com - 0663383024 - @benelambert1979
