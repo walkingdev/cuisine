@@ -1,7 +1,7 @@
 ---
 title: Session Cuisine V-33
 description: Faire de la cuisine saine et créative sans frigo, sans gazinière et sans cuisine .
-image_url: https://raw.githubusercontent.com/walkingdev/cuisine/master/img/pommes.jpg
+image_url: https://raw.githubusercontent.com/walkingdev/cuisine/master/media/pommes.jpg
 ---
 
 # Session Cuisine 
