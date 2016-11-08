@@ -3,7 +3,7 @@ title: Liens pour la session Cuisine sans cuisine
 description: Liens pour s'informer, pour trouver des explications, des expérimentations
 ---
 
-# Liens Cuisine sans cuisine
+# Session Cuisine sans cuisine
 
 ## Expériences
 
@@ -22,7 +22,7 @@ description: Liens pour s'informer, pour trouver des explications, des expérime
 
 * [chauffe-ration](http://www.survivre.com/chauffe-ration-militaire-c2x9712305)
 * [lunchbox chauffante USB](https://fr.aliexpress.com/item/Portable-USB-Lunchbox-Lunch-Box-Bento-Warming-Heating-Bag-Food-Warmer-Heater-Brand-Convenient-Work-Tableware/32704765113.html?ws_ab_test=searchweb0_0,searchweb201602_2,searchweb201603_1&btsid=ef31103a-ef45-4449-9c34-0d20f1a3572c)
-
+* [ustensile pour les épices](http://www.popote.eu/Ustensiles-Cuisine-Camping/1717-Kit-Assaisonnement-TREKNEAT.html)
 
 ## Conseils de survie
 
