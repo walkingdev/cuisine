@@ -1,7 +1,7 @@
 ---
 title: Session Cuisine V-33
 description: Prépare ce qui t'es nécessaire pour ta session cuisine sans cuisine.
-image_url: https://raw.githubusercontent.com/walkingdev/cuisine/master/media/picnic-jap.jpg
+image_url: https://raw.githubusercontent.com/walkingdev/cuisine/master/media/champignons.jpg
 ---
 
 # Prépare ta session cuisine
