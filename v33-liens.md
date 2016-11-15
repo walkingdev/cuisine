@@ -23,6 +23,11 @@ description: Liens pour s'informer, pour trouver des explications, des expérime
 * [chauffe-ration](http://www.survivre.com/chauffe-ration-militaire-c2x9712305)
 * [lunchbox chauffante USB](https://fr.aliexpress.com/item/Portable-USB-Lunchbox-Lunch-Box-Bento-Warming-Heating-Bag-Food-Warmer-Heater-Brand-Convenient-Work-Tableware/32704765113.html?ws_ab_test=searchweb0_0,searchweb201602_2,searchweb201603_1&btsid=ef31103a-ef45-4449-9c34-0d20f1a3572c)
 * [ustensile pour les épices](http://www.popote.eu/Ustensiles-Cuisine-Camping/1717-Kit-Assaisonnement-TREKNEAT.html)
+* [contenants](http://www.muji.eu/pages/online.asp?Sec=18&Sub=78)
+
+## Lieux
+
+* [potager et verger conservatoire](http://www.ohlegumesoublies.com/accueil-touristique.asp)
 
 ## Conseils de survie
 
