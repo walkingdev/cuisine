@@ -57,6 +57,11 @@ Tu peux t’inscrire ici :
 ou ici si tu n'es pas à l'aise avec Github :
 * [inscription](https://www.eventbrite.fr/e/billets-walking-dev-cuisine-29078499575)
 
+### Et si je ne peux pas venir le 16 Décembre ?
+
+Envoie nous un message et propose nous une date qui te conviendrait mieux.  
+Tu n'es pas disponible un jour en semaine, tu serais dispo mais pas à Bordeaux ? Envoie nous tes suggestions de jour et de lieu.
+
 ### Pourquoi V-33 ?
 
 C'est pas très explicite, mais en cherchant on trouve quand même facilement le pourquoi du comment.
