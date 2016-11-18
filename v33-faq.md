@@ -10,7 +10,7 @@ image_url: https://raw.githubusercontent.com/walkingdev/cuisine/master/media/pom
 
 ### On va faire quoi ?
 
-L'idée c'est de découvrir comment manger avec plaisir quand on est en itinérance.  
+L'idée c'est de découvrir comment manger avec plaisir quand on est en itinérance, comment manger autrement, de vivre ensemble de nouvelles expériences gustatives étonnantes et insolites. 
 Comment peut-on manger chaud sans réchaud, sans matos traditionnel, sans porter sa cuisine sur son dos ?  
 Dans la ville, on marche, on découvre le marché, des lieux étonnants et des ressources insoupçonnées pour cuisiner.   
 On expérimente des techniques, on joue avec astuces et espièglerie. On teste, on goûte, on décèle de nouvelles saveurs, on invente ensemble une nouvelle gastronomie.
