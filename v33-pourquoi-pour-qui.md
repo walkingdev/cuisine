@@ -4,11 +4,6 @@ description: Qui sont les organisateurs de cette session, pour qui la préparent
 image_url: https://raw.githubusercontent.com/walkingdev/cuisine/master/media/sang.jpg
 ---
 
-# Qui sommes nous ?
-
-Moi, Bénédicte, je suis auteur styliste culinaire. Je joue avec la nourriture, je mets en scène des aliments pour la photo ou pour l'évènementiel. J'invente de nouvelles recettes et de nouvelles façons de voir ce que l'on mange. Je suis une aventurière qui cherche de nouvelles sensations gustatives, de nouvelles histoires, de nouvelles émotions.
-Moi, Stéphane, je suis ...
-
 # Pourquoi créer un walking dev cuisine sans cuisine ?
 
 En travaillant en nomadisme, en cherchant à bien se nourrir, on était à l'affut d'idées.  
@@ -31,3 +26,8 @@ Nos valeurs sont:
 * personne ne sait mieux que toi ce qui est bon pour toi, pas d'enseignant ni d'enseigné, personne en position haute qui te diras quoi faire
 * l'enthousiasme et la pêche (si on fait la gueule, on utilise plus de muscles du visage que si on sourit et ça crée beaucoup plus de rides)
 
+
+# Qui sommes nous ?
+
+Moi, Bénédicte, je suis auteur styliste culinaire. Je joue avec la nourriture, je mets en scène des aliments pour la photo ou pour l'évènementiel. J'invente de nouvelles recettes et de nouvelles façons de voir ce que l'on mange. Je suis une aventurière qui cherche de nouvelles sensations gustatives, de nouvelles histoires, de nouvelles émotions.
+Moi, Stéphane, je suis ...
