@@ -1,11 +1,11 @@
 # Comment faire du feu sans feu ou cuisiner sans cuisine ?
 
-## L'art de ce que mangent les digital nomades
+## L'art de ce que mangent les néo-nomades
 
 ### Petit état des lieux
 
-Qu'est ce qui se pratique couramment lorsqu'on travaille dans le web ou que l'on aime bouger-bouger ? 
-Que fait on lorsqu'on parcoure la France ou le monde à la recherche de nouvelles péripéties palpitantes ? 
+Qu'est-ce qui se pratique couramment lorsqu'on travaille dans le Web ou que l'on aime bouger-bouger ? 
+Que fait on lorsqu'on parcourt la France ou le monde à la recherche de nouvelles péripéties palpitantes ? 
 Où squatte-t-on **des lieux inédits de travail et de ressource** ? 
 Choisit-on des co-working, des tiers-lieux, des coins de bureaux, des morceaux de nappe à carreaux ?  
 
@@ -42,7 +42,7 @@ Des **nouvelles technologies** aux **remèdes de grand-mère**, de l'exploration
 
 #### Stéphane
 
-Formateur en méthodes agiles, accompagnateurs de projets en collaboration, **dé-constructeur d'idées reçues** et de techniques marketing, Stéphane se dit "difficultateur".  
+Difficultateur sur les approches agiles, accompagnateurs de projets collaboratifs, **dé-constructeur d'idées reçues** et de techniques marketing.
 
 Il offre un **nouveau regard** sur les organisations au travail, sur les produits webs innovants, sur l'éducation, sur la cuisine.
 
