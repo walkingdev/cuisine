@@ -13,8 +13,11 @@ image_url: https://raw.githubusercontent.com/walkingdev/cuisine/master/media/puz
 ### Petit état des lieux
 
 Qu'est ce qui se pratique couramment lorsqu'on travaille dans le web ou que l'on aime bouger-bouger ? 
+
 Que fait on lorsqu'on parcoure la France ou le monde à la recherche de nouvelles péripéties palpitantes ? 
+
 Où squatte-t-on **des lieux inédits de travail et de ressource** ? 
+
 Choisit-on des co-working, des tiers-lieux, des coins de bureaux, des morceaux de nappe à carreaux ?  
 
 Et quelles sont alors les pratiques courantes pour se sustenter, consommer, picorer, croquer un bout, becqueter, se taper la cerise, se caler les moustaches, chamailler des dents, se garnir la paillasse, se caresser *l'angoulême* ?  
