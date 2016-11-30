@@ -1,11 +1,19 @@
+---
+title: Article sur la session cuisine sans cuisine
+description: Décriptage et description de la proposition pour la journée
+image_url: https://raw.githubusercontent.com/walkingdev/cuisine/master/media/puzzle-eat2.jpg
+---
+
 # Comment faire du feu sans feu ou cuisiner sans cuisine ?
 
-## L'art de ce que mangent les néo-nomades
+[](https://raw.githubusercontent.com/walkingdev/cuisine/master/media/cuisine-outside.jpg)
+
+## L'art de ce que mangent les digital nomades
 
 ### Petit état des lieux
 
-Qu'est-ce qui se pratique couramment lorsqu'on travaille dans le Web ou que l'on aime bouger-bouger ? 
-Que fait on lorsqu'on parcourt la France ou le monde à la recherche de nouvelles péripéties palpitantes ? 
+Qu'est ce qui se pratique couramment lorsqu'on travaille dans le web ou que l'on aime bouger-bouger ? 
+Que fait on lorsqu'on parcoure la France ou le monde à la recherche de nouvelles péripéties palpitantes ? 
 Où squatte-t-on **des lieux inédits de travail et de ressource** ? 
 Choisit-on des co-working, des tiers-lieux, des coins de bureaux, des morceaux de nappe à carreaux ?  
 
@@ -20,7 +28,7 @@ Mais alors, que dire du cordon de la bourse qui, en se détendant, n'épargne pa
 On peut opter pour *la petite boîte en plastique qui permet de conserver ses aliments* et de se concocter un **pique-nique**.
 On peut aussi casser la graine au marché en piochant dans les produits frais à **grignoter**.  
 
-[](puzzle-eat.jpg)
+[](https://raw.githubusercontent.com/walkingdev/cuisine/master/media/marche-legumes.jpg)
 
 Mais comment faire quand on est à Vancouver ou même à Paris, par temps gris ? 
 Que faire lorsqu'on veut **satisfaire son appétit, se réchauffer l'estomac, sans avoir à porter sa cuisinière dans son sac à dos ** (cuisinière: j'entends, non pas sa douce compagne tendrement affectée aux tâches ménagères et culinaires (comme sa grand-mère), mais bien sur un appareil électroménager)  ?  
@@ -34,15 +42,17 @@ Originellement, organisé à destination des dev-eloppeurs, ceux qui arpentent l
 
 Ouvert à tous les aventuriers qui veulent découvrir de nouvelles odyssées, pas besoin de passer par les enfers d'un régime spartiate.
 On partira détecter la magie d'un **aliment nouveau**, d'une **épice qui fait voyager**, d'une **nouvelle manière de cuisiner inspirante**, accompagné d'astuces épiques.
-Des **nouvelles technologies** aux **remèdes de grand-mère**, de l'exploration des carnets de **recettes inventives** aux **aliments tout-terrain**, tout est bon pour manger son bout de cochon.  
+Des **nouvelles technologies** aux **remèdes de grand-mère**, de l'exploration des carnets de **recettes inventives** aux **aliments tout-terrain**, tout est bon pour manger son bout de cochon. 
 
-[](~~casserole.jpg~~)
+Faire une chantilly **sans frigo ni batteur**, faire **cuire** un saumon sans flamme, cuisiner bon avec **un minimum de place et d’outils**, voilà de vrais défis ! 
+
+[](https://raw.githubusercontent.com/walkingdev/cuisine/master/media/puzzle-eat.jpg)
 
 ### Qui sont ces organisateurs qui *gastronomisent* avec nos gambettes ?  
 
 #### Stéphane
 
-Difficultateur sur les approches agiles, accompagnateurs de projets collaboratifs, **dé-constructeur d'idées reçues** et de techniques marketing.
+Formateur en méthodes agiles, accompagnateurs de projets en collaboration, **dé-constructeur d'idées reçues** et de techniques marketing, Stéphane se dit "difficultateur".  
 
 Il offre un **nouveau regard** sur les organisations au travail, sur les produits webs innovants, sur l'éducation, sur la cuisine.
 
