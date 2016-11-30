@@ -28,7 +28,7 @@ Mais alors, que dire du cordon de la bourse qui, en se détendant, n'épargne pa
 On peut opter pour *la petite boîte en plastique qui permet de conserver ses aliments* et de se concocter un **pique-nique**.
 On peut aussi casser la graine au marché en piochant dans les produits frais à **grignoter**.  
 
-[](https://raw.githubusercontent.com/walkingdev/cuisine/master/media/marche-legumes.jpg)
+![](https://raw.githubusercontent.com/walkingdev/cuisine/master/media/marche-legumes.jpg)
 
 Mais comment faire quand on est à Vancouver ou même à Paris, par temps gris ? 
 Que faire lorsqu'on veut **satisfaire son appétit, se réchauffer l'estomac, sans avoir à porter sa cuisinière dans son sac à dos ** (cuisinière: j'entends, non pas sa douce compagne tendrement affectée aux tâches ménagères et culinaires (comme sa grand-mère), mais bien sur un appareil électroménager)  ?  
@@ -46,7 +46,7 @@ Des **nouvelles technologies** aux **remèdes de grand-mère**, de l'exploration
 
 Faire une chantilly **sans frigo ni batteur**, faire **cuire** un saumon sans flamme, cuisiner bon avec **un minimum de place et d’outils**, voilà de vrais défis ! 
 
-[](https://raw.githubusercontent.com/walkingdev/cuisine/master/media/puzzle-eat.jpg)
+![](https://raw.githubusercontent.com/walkingdev/cuisine/master/media/puzzle-eat.jpg)
 
 ### Qui sont ces organisateurs qui *gastronomisent* avec nos gambettes ?  
 
@@ -71,6 +71,8 @@ Curieuse et agourmandie, je remets cent fois mon métier sur l'ouvrage. J'invent
 **1er walking dev cuisine sans cuisine le 16 Décembre 2016 à Bordeaux, rdv place Ste croix à 9h**.
 
 Pour répondre à un maximum de questions, on peut se rendre sur ![la faq](http://www.multibao.org/#walkingdev/cuisine/blob/master/v33-faq.md) ou sur ![la fiche d'inscription](https://www.eventbrite.fr/e/billets-walking-dev-cuisine-sans-cuisine-29078499575)  
+
+*crédits photos*: Matt Heaton, Markus Spiske, Design Milk
 
 
 
