@@ -70,7 +70,7 @@ Curieuse et agourmandie, je remets cent fois mon métier sur l'ouvrage. J'invent
 
 **1er walking dev cuisine sans cuisine le 16 Décembre 2016 à Bordeaux, rdv place Ste croix à 9h**.
 
-Pour répondre à un maximum de questions, on peut se rendre sur ![la faq](http://www.multibao.org/#walkingdev/cuisine/blob/master/v33-faq.md) ou sur ![la fiche d'inscription](https://www.eventbrite.fr/e/billets-walking-dev-cuisine-sans-cuisine-29078499575)  
+Pour répondre à un maximum de questions, on peut se rendre sur [la faq](http://www.multibao.org/#walkingdev/cuisine/blob/master/v33-faq.md) ou sur ![la fiche d'inscription](https://www.eventbrite.fr/e/billets-walking-dev-cuisine-sans-cuisine-29078499575)  
 
 *crédits photos*: Matt Heaton, Markus Spiske, Design Milk
 
