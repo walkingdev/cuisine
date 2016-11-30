@@ -78,6 +78,3 @@ Pour répondre à un maximum de questions, on peut se rendre sur ![la faq](http:
 
 
 
-
-
-
