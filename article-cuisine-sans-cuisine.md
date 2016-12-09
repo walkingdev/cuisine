@@ -4,47 +4,62 @@ description: Décriptage et description de la proposition pour la journée
 image_url: https://raw.githubusercontent.com/walkingdev/cuisine/master/media/puzzle-eat2.jpg
 ---
 
-# Comment faire du feu sans feu ou cuisiner sans cuisine ?
 
 ![](https://raw.githubusercontent.com/walkingdev/cuisine/master/media/cuisine-outside.jpg)
 
 ## L'art de ce que mangent les digital nomades
 
-### Petit état des lieux
-
-Qu'est ce qui se pratique couramment lorsqu'on travaille dans le web ou que l'on aime bouger-bouger ? 
-Que fait on lorsqu'on parcoure la France ou le monde à la recherche de nouvelles péripéties palpitantes ? 
-Où squatte-t-on **des lieux inédits de travail et de ressource** ? 
-Choisit-on des co-working, des tiers-lieux, des coins de bureaux, des morceaux de nappe à carreaux ?  
-
-Et quelles sont alors les pratiques courantes pour se sustenter, consommer, picorer, croquer un bout, becqueter, se taper la cerise, se caler les moustaches, chamailler des dents, se garnir la paillasse, se caresser *l'angoulême* ?  
-
-**L'ami du voyageur gustatif est souvent le restaurant**.  
-Du petit boui-boui où l'on se débride le bide au grand bouchon pour une bonne bouffe, l'immensité du choix qui lui échoit le met dans l'embarras.  
-Mais alors, que dire du cordon de la bourse qui, en se détendant, n'épargne pas le déficit des recettes ?  
-
-**Kebabs et sandwichs dépannent** sans concession mais restent des compagnons de trottoir peu chaleureux. 
- 
-On peut opter pour *la petite boîte en plastique qui permet de conserver ses aliments* et de se concocter un **pique-nique**.
-On peut aussi casser la graine au marché en piochant dans les produits frais à **grignoter**.  
-
-![](https://raw.githubusercontent.com/walkingdev/cuisine/master/media/marche-legumes.jpg)
-
-Mais comment faire quand on est à Vancouver ou même à Paris, par temps gris ? 
-Que faire lorsqu'on veut **satisfaire son appétit, se réchauffer l'estomac, sans avoir à porter sa cuisinière dans son sac à dos ** (cuisinière: j'entends, non pas sa douce compagne tendrement affectée aux tâches ménagères et culinaires (comme sa grand-mère), mais bien sur un appareil électroménager)  ?  
+J'ai entendu l'appel du fond des ténèbres, depuis les sombres tavernes et les bistrots obscurs, l'appel des nomades qui veulent manger autrement. Marre de la junk food, du train-train, du bling-bling, du ronron, des flonflons.
+Notre défi: manger sain, bon, pas cher et avec les moyens du bord. Notre défi: faire de la cuisine sans cuisine.
+La solution: un walking dev à Bordeaux. 
 
 ### Un walking dev: atelier co-créatif pour découvrir la cuisine sans cuisine
 
 Les **walking dev** qu'est ce que c'est ? 
-Les walking dev c'est pour **apprendre des trucs en se baladant dans des endroits insolites**, c'est pour sortir de son mode zombie.  
+Les walking dev c'est pour **apprendre des trucs en se baladant dans des endroits insolites**, c'est pour sortir de son mode zombie. 
+Il existe des walking dev sur plein de sujets: langages de programmation elm, photographie, méthodes lean...  [site walking dev.fr](www.walkingdev.fr)
 
-Originellement, organisé à destination des dev-eloppeurs, ceux qui arpentent les rues à la recherche d'*une nourriture plus saine, plus gourmande, avec moins de resto, moins de train-train, de bling-bling, de couscous, de cracra, de ronron, de flonflons, de glagla, de zoumzoumzen*...  
+On explore de nouvelles façons de voir le travail, de nouveaux modes de vie, on est entré dans une ère numérique (si on y est pas déjà complètement immergé). 
+Inventons ensemble une nouvelle manière de cuisiner, de manger, qui accompagne et valorise le travail d'équipe corps-esprit sain(t).
 
-Ouvert à tous les aventuriers qui veulent découvrir de nouvelles odyssées, pas besoin de passer par les enfers d'un régime spartiate.
-On partira détecter la magie d'un **aliment nouveau**, d'une **épice qui fait voyager**, d'une **nouvelle manière de cuisiner inspirante**, accompagné d'astuces épiques.
-Des **nouvelles technologies** aux **remèdes de grand-mère**, de l'exploration des carnets de **recettes inventives** aux **aliments tout-terrain**, tout est bon pour manger son bout de cochon. 
+### Petit état des lieux de la vie nomade
 
-Faire une chantilly **sans frigo ni batteur**, faire **cuire** un saumon sans flamme, cuisiner bon avec **un minimum de place et d’outils**, voilà de vrais défis ! 
+Les nomades, voyageurs et aventuriers ont déserté les openspace pour faire du monde leur nouveau bureau, investissant **des lieux inédits de travail et de ressource**.
+Co-working, tiers-lieux, coins de bureaux ou morceaux de nappe à carreaux ? 
+
+Et quelles sont alors les pratiques courantes pour se sustenter, se caler les moustaches, se garnir la paillasse ?  
+
+#### Habitudes alimentaires 
+
+**L'ami du voyageur gustatif est souvent le restaurant**.  
+On peut commander un plat du jour pour 12€ en moyenne. "Mais vous vous laisserez bien tenter par un petit dessert et un café."
+Budget pour la journée avoisinant les 40€ (petit-dej et boissons all inclusive).
+
+Quel choix avons nous dans la gamme de la restauration claironnante ?
+
+**Kebabs et sandwichs dépannent** à petits prix, mais restent des compagnons de trottoir peu chaleureux.
+
+Des brasseries, en passant par le wok thaï, le steak frites, les sushis ou la salade garnie, on peut trouver son bonheur dans les cuisines d'un bistro. Mange-t-on toujours équilibré ? 
+ 
+On peut alors opter pour *la petite boîte en plastique qui permet de conserver ses aliments* et de se concocter un **pique-nique** maison.
+On peut aussi casser la graine au marché en piochant dans les produits frais à **grignoter**.  
+Est ce toujours possible ?
+![](https://raw.githubusercontent.com/walkingdev/cuisine/master/media/marche-legumes.jpg)
+
+Mais comment faire quand on est à Vancouver ou même à Paris, par temps gris ? 
+Que faire lorsqu'on veut **se réchauffer l'estomac, sans avoir à porter sa cuisinière dans son sac à dos ** (cuisinière: pas sa douce compagne tendrement affectée aux tâches ménagères et culinaires)  ?  
+
+### Ce que l'on va explorer ensemble
+
+Des **nouvelles technologies** aux **remèdes de grand-mère**, des carnets de **recettes inventives** aux **aliments tout-terrain**, tout est bon dans l'exploration. 
+On partira détecter la magie d'un **aliment nouveau**, d'une **épice qui fait voyager**, d'une **nouvelle manière de cuisiner inspirante**.
+
+Connaissez vous les radis pastèque, la fève tonka, le citron bergamote, le mélange d'épices zaatar ?
+Savez vous qu'on peut vaporiser un citron, qu'on peut faire une chantilly **sans frigo ni batteur**, **cuire** un saumon sans flamme ?
+
+Cuisiner gastro avec **un minimum de place et d’outils**, voilà notre vrai défi ! 
+
+Et en lieu et place, nous nous risquerons dans de nouveaux endroits collaboratifs ou mixtes, musées, complexes sportifs, ateliers associatifs...
 
 ![](https://raw.githubusercontent.com/walkingdev/cuisine/master/media/puzzle-eat.jpg)
 
@@ -52,9 +67,9 @@ Faire une chantilly **sans frigo ni batteur**, faire **cuire** un saumon sans fl
 
 #### Stéphane
 
-Formateur en méthodes agiles, accompagnateurs de projets en collaboration, **dé-constructeur d'idées reçues** et de techniques marketing, Stéphane se dit "difficultateur".  
+Formateur en méthodes agiles, accompagnateurs de projets en collaboration, **dé-constructeur d'idées reçues** et de techniques marketing, une espèce de "difficultateur".  
 
-Il offre un **nouveau regard** sur les organisations au travail, sur les produits webs innovants, sur l'éducation, sur la cuisine.
+Il propose de jeter un **nouveau regard** sur les organisations au travail, sur les produits novants, sur l'éducation.
 
 **Gourmet et épicurien**, il aime les nouvelles expériences et les fait partager.
 
