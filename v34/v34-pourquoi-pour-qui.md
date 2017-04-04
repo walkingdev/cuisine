@@ -1,7 +1,7 @@
 ---
 title: Pourquoi, pour qui et par qui ? V-33
 description: Qui sont les organisateurs de cette session, pour qui la préparent-ils et quelle est leur vision
-image_url: https://raw.githubusercontent.com/walkingdev/cuisine/master/media/sang.jpg
+image_url: https://raw.githubusercontent.com/walkingdev/cuisine/master/media/matiere.jpg
 ---
 
 

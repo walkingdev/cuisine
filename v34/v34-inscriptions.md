@@ -1,7 +1,7 @@
 ---
 title: Inscriptions Cuisine 
 description: Liste pour s'inscrire à la session Wallking dev Cuisine sans cuisine
-image_url: https://raw.githubusercontent.com/walkingdev/cuisine/master/media/vol-table.jpg
+image_url: https://raw.githubusercontent.com/walkingdev/cuisine/master/media/partage-pomme.jpg
 ---
 
 
