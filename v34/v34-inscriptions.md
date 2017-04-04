@@ -10,7 +10,7 @@ image_url: https://raw.githubusercontent.com/walkingdev/cuisine/master/media/par
 Pour t'inscrire, ajoute tes coordonnées en bas de la liste.  
 Pour plus d'infos, consulte la [FAQ](http://walkingdev.fr/#walkingdev/cuisine/blob/master/v34-faq.md)  
 
-Ou utilise ce service [inscription](https://www.eventbrite.fr/e/billets-walking-dev-cuisine-29078499575)
+Ou utilise ce service [inscription](https://www.eventbrite.fr/e/billets-journee-dexploration-de-cuisine-creative-et-collaborative-33428327026)
 
 * *nom - prénom - mail - tél - twitter*
 * Gardin - Erick -  - @newick

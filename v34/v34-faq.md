@@ -1,7 +1,7 @@
 ---
 title: Session Cuisine collaborative V-34
 description: Faire de la cuisine créative en co-construisant les plats, en expérimentant, en explorant des techniques, ingrédients et lieux insolites.
-image_url: https://raw.githubusercontent.com/walkingdev/cuisine/master/media/pommes.jpg
+image_url: https://raw.githubusercontent.com/walkingdev/cuisine/master/media/together-we-create.jpg
 ---
 
 # Session Cuisine collaborative
@@ -60,13 +60,13 @@ Regarde [la fiche détaillée](https://github.com/walkingdev/cuisine/edit/master
 Tu peux t’inscrire ici :
 * [v34-inscriptions.md](https://github.com/walkingdev/cuisine/edit/master/v34-inscriptions.md)
 ou ici si tu n'es pas à l'aise avec Github :
-* [inscription](https://www.eventbrite.fr/e/billets-walking-dev-cuisine-29078499575)
+* [inscription](https://www.eventbrite.fr/e/billets-journee-dexploration-de-cuisine-creative-et-collaborative-33428327026)
 
 ### Et si je ne peux pas venir le 25 Février ?
 
 Envoie nous un message et propose nous une date qui te conviendrait mieux.  
 Tu n'es pas disponible un jour en semaine, tu serais dispo mais pas à Montpellier ? Envoie nous tes suggestions de jour et de lieu.
-Nous explorerons encore plus de choses sur la cuisine collaborative, la cuisine saine, la cuisine fusion et plein d'autres sujets tournant autour de ce qui se mange sur 3 jours pour le prochain [MiamOpenSud]()
+Nous explorerons encore plus de choses sur la cuisine collaborative, la cuisine saine, la cuisine fusion et plein d'autres sujets tournant autour de ce qui se mange sur 3 jours pour le prochain [MiamOpenSud](https://github.com/bndct-lmbrt/Miam-open-sud/blob/master/FAQ.md)
 
 ### Pourquoi V-34 ?
 
@@ -77,4 +77,4 @@ C'est pas très explicite, mais en cherchant on trouve quand même facilement le
 Tu peux contacter :  
 - [@Erick](https://twitter.com/newick) - (messages privés (DM) ouverts)  
 ou  
-- [@Bénédicte](https://twitter.com/Benelambert1979) (messages privés (DM) ouverts aussi) 
+- [@Bénédicte](https://twitter.com/bndctlambert) (messages privés (DM) ouverts aussi) 
