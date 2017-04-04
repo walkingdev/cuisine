@@ -1,5 +1,5 @@
 ---
-title: Pourquoi, pour qui et par qui ? V-33
+title: Pourquoi, pour qui et par qui ? V-34
 description: Qui sont les organisateurs de cette session, pour qui la préparent-ils et quelle est leur vision
 image_url: https://raw.githubusercontent.com/walkingdev/cuisine/master/media/sang.jpg
 ---
@@ -46,7 +46,7 @@ Nos valeurs sont:
 # Qui sommes nous ?
 
 Moi, **Bénédicte**, je suis auteur styliste culinaire. Je joue avec la nourriture, je mets en scène des aliments pour la photo ou pour l'évènementiel. J'invente de nouvelles recettes et de nouvelles façons de voir ce que l'on mange. Je suis une aventurière qui cherche de nouvelles sensations gustatives, de nouvelles histoires, de nouvelles émotions.
-Moi, **Stéphane**, je suis formateur en méthodes agiles et digital nomade. Je cherche des solutions pour me nourrir mieux dans la rue.
+Moi, **Erick**, je suis intégrateur web. J'ai envie de découvrir de nouvelles façons de cuisiner.
 
 
 
