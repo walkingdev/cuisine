@@ -1,42 +1,46 @@
 ---
-title: Session Cuisine V-33
-description: Faire de la cuisine saine et créative sans frigo, sans gazinière et sans cuisine .
+title: Session Cuisine collaborative V-34
+description: Faire de la cuisine créative en co-construisant les plats, en expérimentant, en explorant des techniques, ingrédients et lieux insolites.
 image_url: https://raw.githubusercontent.com/walkingdev/cuisine/master/media/pommes.jpg
 ---
 
-# Session Cuisine 
+# Session Cuisine collaborative
 
 ## FAQ
 
 ### On va faire quoi ?
 
-L'idée c'est de découvrir comment manger avec plaisir quand on est en itinérance, comment manger autrement, de vivre ensemble de nouvelles expériences gustatives étonnantes et insolites. 
-Comment peut-on manger chaud sans réchaud, sans matos traditionnel, sans porter sa cuisine sur son dos ?  
-Dans la ville, on marche, on découvre le marché, des lieux étonnants et des ressources insoupçonnées pour cuisiner.   
-On expérimente des techniques, on joue avec astuces et espièglerie. On teste, on goûte, on décèle de nouvelles saveurs, on invente ensemble une nouvelle gastronomie.
+L'idée c'est d'expérimenter ensemble une manière différente de cuisiner.  
+D'habitude on pense une recette, l'un coupe, l'autre épluche. Souvent il y a un leader, le "chef" et des petites mains qui oeuvrent pour servir la force. 
+On va changer de posture et se poser des questions. On va expérimenter avec de petits ateliers des recettes en co-création.    
+On va inventer quelque chose de totalement inédit et éphémère qui n'appartiendra qu'aux personnes présentes.   
+On va aller dans des lieux insolites, cooking friendly, ouvrir des lieux non dédiés à la gastronomie.  
+On va se balader dans Montpellier et profiter de chaque marche entre les différents lieux pour échanger nos ressentis, nos besoins ou nos envies.  
 
 ### C'est quand et où ?
 
-La balade commence le 16 Décembre à 9h place Sainte Croix à Bordeaux.  
+La balade commence le 25 Février à 9h place de la comédie à Montpellier.  
 Et, ça se termine vers 18h30.
 
 ### C'est pour qui ?
 
-- Les personnes curieuses de découvrir comment manger sain, malin et insolite, sans matos.
-- Les développeuses et développeurs souhaitant émoustiller leurs papilles sans passer par la case étoilée.
-- Les voyageurs à la recherche de leur style culinaire wildlife.
+- Les personnes curieuses de découvrir comment cuisiner autrement, comment ouvrir leurs horizons culinaires.
+- Les explorateurs culinaires, les Indiana Jones du goût.
+- Les personnes désireuses de partager une journée de découvertes avec des gens tout pareil.
 
 ### Je ne sais pas cuisiner...
 
-On va découvrir ensemble des choses simples pour se faire plaisir et réinventer la cuisine.  
+On va découvrir ensemble une nouvelle façon de concevoir la cuisine et la réinventer.  
 On est tous des débutants.
 
 ### On sera combien ?
 
-Au moins 2, maximum 8, probablement 6.
+Au moins 2, maximum 10, probablement 6.
 
 ### Ça coûte combien ?
-69€ comprenant les déplacements, les repas et le matériel nécessaire à la cuisine.  
+
+59 € pour les particuliers, et 89 € HT si c’est ta boite qui paye.
+Cela comprend les déplacements, les repas et le matériel nécessaire à la cuisine.  
 Si c'est trop cher, n'hésite pas à nous le faire savoir, on trouvera une solution.  
 Si ce n'est pas assez cher, tu peux inviter tous tes amis ;)
 
@@ -47,28 +51,30 @@ Rien n'est décidé pour l'instant, tout reste à inventer. Si tu manges sans gl
 ### Il faut que je prenne quoi ?
 
 Amène un couteau plutôt couteau-suisse ou laguiole, si tu en as, sinon on s'en chargera.  
-Prends un sac à dos, de bonnes chaussures de marche et des vêtements chauds, à priori (cela s'ajustera avec la météo).  
-Regarde [la fiche détaillée](https://github.com/walkingdev/cuisine/edit/master/v33-prepare-ta-session.md) 
+Prend un légume, une épice, une fleur ou un truc que tu veux nous faire découvrir.
+Prends un sac à dos, de bonnes chaussures de marche et des vêtements confortables pour marcher.  
+Regarde [la fiche détaillée](https://github.com/walkingdev/cuisine/edit/master/v34-prepare-ta-session.md) 
 
 ### Je m'inscris où ?
 
 Tu peux t’inscrire ici :
-* [v33-inscriptions.md](https://github.com/walkingdev/cuisine/edit/master/v33-inscriptions.md)
+* [v34-inscriptions.md](https://github.com/walkingdev/cuisine/edit/master/v34-inscriptions.md)
 ou ici si tu n'es pas à l'aise avec Github :
 * [inscription](https://www.eventbrite.fr/e/billets-walking-dev-cuisine-29078499575)
 
-### Et si je ne peux pas venir le 16 Décembre ?
+### Et si je ne peux pas venir le 25 Février ?
 
 Envoie nous un message et propose nous une date qui te conviendrait mieux.  
-Tu n'es pas disponible un jour en semaine, tu serais dispo mais pas à Bordeaux ? Envoie nous tes suggestions de jour et de lieu.
+Tu n'es pas disponible un jour en semaine, tu serais dispo mais pas à Montpellier ? Envoie nous tes suggestions de jour et de lieu.
+Nous explorerons encore plus de choses sur la cuisine collaborative, la cuisine saine, la cuisine fusion et plein d'autres sujets tournant autour de ce qui se mange sur 3 jours pour le prochain [MiamOpenSud]()
 
-### Pourquoi V-33 ?
+### Pourquoi V-34 ?
 
 C'est pas très explicite, mais en cherchant on trouve quand même facilement le pourquoi du comment.
 
 #### Et si j'ai une question ?
 
 Tu peux contacter :  
-- [@Stephane](http://twitter.com/...) - (messages privés (DM) ouverts)  
+- [@Erick](https://twitter.com/newick) - (messages privés (DM) ouverts)  
 ou  
-- [@Bénédicte](https://twitter.com/Benelambert1979)
+- [@Bénédicte](https://twitter.com/Benelambert1979) (messages privés (DM) ouverts aussi) 
