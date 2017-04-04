@@ -1,5 +1,5 @@
 ---
-title: Session Cuisine V-33
+title: Session Cuisine V-34
 description: Prépare ce qui t'es nécessaire pour ta session cuisine sans cuisine.
 image_url: https://raw.githubusercontent.com/walkingdev/cuisine/master/media/seche-cheveux.jpg
 ---
