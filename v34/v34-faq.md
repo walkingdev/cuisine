@@ -1,7 +1,7 @@
 ---
 title: Session Cuisine collaborative V-34
 description: Faire de la cuisine créative en co-construisant les plats, en expérimentant, en explorant des techniques, ingrédients et lieux insolites.
-image_url: https://raw.githubusercontent.com/walkingdev/cuisine/master/media/pommes.jpg
+image_url: https://raw.githubusercontent.com/walkingdev/cuisine/master/media/together-we-create.jpg
 ---
 
 # Session Cuisine collaborative
