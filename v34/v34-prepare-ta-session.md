@@ -1,7 +1,7 @@
 ---
-title: Session Cuisine V-33
-description: Prépare ce qui t'es nécessaire pour ta session cuisine sans cuisine.
-image_url: https://raw.githubusercontent.com/walkingdev/cuisine/master/media/champignons.jpg
+title: Prépare ta session Cuisine collaborative V-34
+description: Prépare ce qui t'es nécessaire pour ta session cuisine collaborative.
+image_url: https://raw.githubusercontent.com/walkingdev/cuisine/master/media/seche-cheveux.jpg
 ---
 
 # Prépare ta session cuisine
@@ -14,7 +14,7 @@ image_url: https://raw.githubusercontent.com/walkingdev/cuisine/master/media/cha
 * de quoi mettre ta nourriture (gamelle, bento, assiette...)
 * de bonnes chaussures
 * un sac à dos
-* un maillot de bain (au cas où)
+
 
 
 ## Préparation pour les organisateurs

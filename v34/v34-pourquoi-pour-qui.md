@@ -1,5 +1,5 @@
 ---
-title: Pourquoi, pour qui et par qui ? V-33
+title: Pourquoi, pour qui et par qui ? V34
 description: Qui sont les organisateurs de cette session, pour qui la préparent-ils et quelle est leur vision
 image_url: https://raw.githubusercontent.com/walkingdev/cuisine/master/media/matiere.jpg
 ---
@@ -32,7 +32,7 @@ Cuisiner gastro avec **un minimum de place et d’outils**, voilà notre vrai d�
 
 Et en lieu et place, nous nous risquerons dans de nouveaux endroits collaboratifs ou mixtes, musées, complexes sportifs, ateliers associatifs..."
 
-> extrait de l'article ["Cuisine sans cuisine ou l'art de ce que mangent les digital nomades"](http://walkingdev.fr/#walkingdev/cuisine/blob/master/article-cuisine-sans-cuisine.md).
+> extrait de l'article ["Cuisine créative et collaborative"](http://walkingdev.fr/#walkingdev/cuisine/blob/master/article-cuisine-collaborative.md).
 
 
 # Quelles sont nos valeurs ?
@@ -46,7 +46,7 @@ Nos valeurs sont:
 # Qui sommes nous ?
 
 Moi, **Bénédicte**, je suis auteur styliste culinaire. Je joue avec la nourriture, je mets en scène des aliments pour la photo ou pour l'évènementiel. J'invente de nouvelles recettes et de nouvelles façons de voir ce que l'on mange. Je suis une aventurière qui cherche de nouvelles sensations gustatives, de nouvelles histoires, de nouvelles émotions.
-Moi, **Stéphane**, je suis formateur en méthodes agiles et digital nomade. Je cherche des solutions pour me nourrir mieux dans la rue.
+Moi, **Erick**, 
 
 
 

@@ -1,3 +1,9 @@
+---
+title: Article sur la cuisine collaborative V-34
+description: Article décrivant la mise en place d'un atelier d'une heure lors du forum ouvert des rencontres Moustic sur les pratiques collaboratives
+image_url: https://raw.githubusercontent.com/walkingdev/cuisine/master/media/facilitation-graphique.jpg
+---
+
 # Cuisine créative et collaborative
 
 Aujourd'hui, lors du forum ouvert de Moustic, j'ai proposé un atelier de cuisine créative et collaborative. 

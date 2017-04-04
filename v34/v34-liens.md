@@ -1,9 +1,9 @@
 ---
-title: Liens pour la session Cuisine sans cuisine
+title: Liens utiles pour la session Cuisine collaborative
 description: Liens pour s'informer, pour trouver des explications, des expérimentations
 ---
 
-# Session Cuisine sans cuisine
+# Session Cuisine collaborative
 
 ## Expériences
 
