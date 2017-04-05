@@ -3,7 +3,7 @@
 title: Prépare ta session Cuisine collaborative V-34
 description: Prépare ce qui t'es nécessaire pour ta session cuisine collaborative.
 =======
-title: Session Cuisine V-33
+title: Session Cuisine V-34
 description: Prépare ce qui t'es nécessaire pour ta session cuisine sans cuisine.
 >>>>>>> 9956d1bfd110e54dbfa03ec153bd385425f7a52a
 image_url: https://raw.githubusercontent.com/walkingdev/cuisine/master/media/seche-cheveux.jpg
