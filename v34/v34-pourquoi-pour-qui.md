@@ -46,7 +46,7 @@ Nos valeurs sont:
 # Qui sommes nous ?
 
 Moi, **Bénédicte**, je suis auteur styliste culinaire. Je joue avec la nourriture, je mets en scène des aliments pour la photo ou pour l'évènementiel. J'invente de nouvelles recettes et de nouvelles façons de voir ce que l'on mange. Je suis une aventurière qui cherche de nouvelles sensations gustatives, de nouvelles histoires, de nouvelles émotions.
-Moi, **Erick**, 
+Moi, **Erick**, je suis intégrateur web en freelance. J'adore manger des bonnes choses et des nouvelles choses. J'ai envie d'expérimenter bien plus autour de la nourriture, faisons le ensemble.
 
 
 
