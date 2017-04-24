@@ -19,7 +19,7 @@ On va se balader dans Montpellier et profiter de chaque marche entre les différ
 
 ### C'est quand et où ?
 
-La balade commence le 25 Février à 9h place de la comédie à Montpellier.  
+La balade commence le 25 Avril à 9h au café la Cigale, 7 boulevard des Arceaux, à Montpellier.  
 Et, ça se termine vers 18h30.
 
 ### C'est pour qui ?
@@ -62,7 +62,7 @@ Tu peux t’inscrire ici :
 ou ici si tu n'es pas à l'aise avec Github :
 * [inscription](https://www.eventbrite.fr/e/billets-journee-dexploration-de-cuisine-creative-et-collaborative-33428327026)
 
-### Et si je ne peux pas venir le 25 Février ?
+### Et si je ne peux pas venir le 25 Avril ?
 
 Envoie nous un message et propose nous une date qui te conviendrait mieux.  
 Tu n'es pas disponible un jour en semaine, tu serais dispo mais pas à Montpellier ? Envoie nous tes suggestions de jour et de lieu.
